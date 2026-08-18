@@ -1,0 +1,4 @@
+interface:
+  display_name: "日常照片奇境转换"
+  short_description: "保留照片主体特征，将日常场景重构为自然系童话微缩奇境"
+  default_prompt: "使用 $transform-everyday-photo-to-wonderland 分析我上传的日常照片，判断保留场景还是只提取主体，再以低碎点干净上色生成自然系童话微缩奇境。"
