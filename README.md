@@ -51,11 +51,5 @@ skills/transform-everyday-photo-to-wonderland/
 
 公开版不附带第三方参考图或个人测试照片。用户上传的参考图只用于提取线条、色彩、媒介和细节密度等视觉规律，不用于复制原图构图、签名、文字或水印。
 
-## 上传到 GitHub
-
-1. 在 GitHub 新建空仓库，推荐名称：`everyday-photo-wonderland-skill`。
-2. 不要让 GitHub 自动创建 README 或 `.gitignore`，本仓库已经包含。
-3. 上传本文件夹中的 `README.md`、`.gitignore` 和 `skills/`。
-4. 发布后可将首个 Release 标记为 `v1.0.0`。
 
 许可证未预设；请在公开发布前根据你的分享方式选择合适的 License。
